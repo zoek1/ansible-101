@@ -1,4 +1,4 @@
-## Sigue siendo una linea
+## Sigue siendo una línea
 
 
 Instalar en todas las máquinas del grupo db.

@@ -1,4 +1,4 @@
-##  El modulo `Template`
+##  El módulo `Template`
 
 Obtienes todo el potencial de jinja y sus filtros incluso dentro de los playbooks.
 

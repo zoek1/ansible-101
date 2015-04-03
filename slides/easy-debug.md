@@ -1,6 +1,6 @@
 ##  Easy debug
 
-Desde linea de comandos
+Desde línea de comandos
 
 - --step
 - --syntax-check

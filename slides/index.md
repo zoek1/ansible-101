@@ -1,6 +1,6 @@
 # Ansible 101
 
-### Simplicidad es la ultima sofisticación
+### Simplicidad es la última sofisticación
 
 Miguel Angel Gordian
 

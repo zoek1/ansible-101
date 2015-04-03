@@ -5,8 +5,8 @@
 - hosts: app
 
   tasks:
-    - Verificar si esta instalado apache.
-    - Instalar apache si no esta instalado.
-    - Verificar que el servicio este activo.
-    - Activar el servicio si no esta activo.
+    - Verificar si está instalado apache.
+    - Instalar apache si no está instalado.
+    - Verificar que el servicio esté activo.
+    - Activar el servicio si no está activo.
 ```

@@ -1,4 +1,4 @@
-##  ¿Donde obtenerlo?
+##  ¿Dónde obtenerlo?
 
 - Github
 - Manejador de paquetes

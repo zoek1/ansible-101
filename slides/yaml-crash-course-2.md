@@ -1,9 +1,9 @@
 ##  YAML Crash Course 2
 
-Tambien las sequencias forman parte de la especificación.
+También las secuencias forman parte de la especificación.
 
 ```yml
-# sequencia
+# secuencia
 array:
   - 132
   - 2.434

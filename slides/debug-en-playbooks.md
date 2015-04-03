@@ -1,6 +1,6 @@
 ##  Debug en playbooks
 
-El modulo debug puede ser de gran ayuda!
+El módulo debug puede ser de gran ayuda!
 
 ```yml
 - name:  Verificar un valor
